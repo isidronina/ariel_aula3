@@ -1,3 +1,4 @@
+//Ariel Isidro Nina Saavedra
 import java.util.Scanner;
 public class Aula3final {
     public static void main(String [] args) {
@@ -21,3 +22,4 @@ public class Aula3final {
         e.close();
     }
 }
+
