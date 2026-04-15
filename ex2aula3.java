@@ -1,3 +1,4 @@
+//Ariel Isidro Nina Saavedra
 import java.util.Scanner;
 public class ex2aula3 {
     public static void main(String[] args) {
