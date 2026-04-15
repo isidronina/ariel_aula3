@@ -1,3 +1,4 @@
+//Ariel Isidro Nina Saavedra
 import java.util.Scanner;
 
 public class ex10aula3{
